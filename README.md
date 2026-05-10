@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 🧠 Only Brainfuck
 
@@ -13,7 +13,7 @@
 
 [🚀 Quick Start](#quick-start) • [📚 What is Brainfuck?](#what-is-brainfuck) • [📖 Programs](#programs) • [💡 Techniques](#techniques) • [🤝 Contributing](#contributing)
 
-
+</div>
 
 ---
 
@@ -420,6 +420,7 @@ If you find this project helpful, please consider:
 
 ---
 
+<div align="center">
 
 ### Made with 🧠 and 8 Symbols
 
@@ -428,7 +429,7 @@ _Challenge yourself. Learn Turing completeness. Have fun with Brainfuck._
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/Only_brainfuck?style=social)](https://github.com/yourusername/Only_brainfuck)
 [![GitHub Forks](https://img.shields.io/github/forks/yourusername/Only_brainfuck?style=social)](https://github.com/yourusername/Only_brainfuck/fork)
 
-
+</div>
 
 **Lines**: 1 line  
 **Concept**: Counter mechanics
@@ -779,6 +780,4 @@ Pick a program above. Run it. Modify it. Understand it. Create it.
 **The only limit is your imagination and 8 symbols.**
 
 Good luck! You've got this! 💪
-B r a i n F u c k 
- 
- 
+#
