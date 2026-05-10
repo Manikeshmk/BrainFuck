@@ -108,7 +108,7 @@ python --version
 ```
 
 ### Running Programs
-
+firstly copy the bf_runner.py code from the bf_runner repo and paste in bf_runner.py of the forked local folder. then go as below instructed.
 ```bash
 # Run a Hello World program
 python bf_runner.py programs/01_hello.bf
