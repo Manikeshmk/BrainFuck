@@ -1,3 +1,7 @@
+![Repo visits](https://hits.sh/github.com/Manikeshmk/BrainFuck.svg?label=repo%20visits)
+![GitHub stars](https://img.shields.io/github/stars/Manikeshmk/BrainFuck?style=logo&logo=github&label=⭐%20Stars) 
+![GitHub forks](https://img.shields.io/github/forks/Manikeshmk/BrainFuck?style=social)
+
 # Only Brainfuck
 
 <div align="center">
